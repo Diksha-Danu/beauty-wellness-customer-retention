@@ -1,0 +1,19 @@
+{
+ "raw_rows": 6120,
+ "missing_pct_before": {
+  "skin_tone": 7.9,
+  "age_bracket": 6.1,
+  "sensitivity_score": 9.6,
+  "formula_match_score": 2.6
+ },
+ "duplicates_removed": 120,
+ "skin_type_labels_before": 16,
+ "skin_type_labels_after": 5,
+ "negative_recency_fixed": 44,
+ "spend_iqr_fences": [
+  2.46,
+  99.23
+ ],
+ "spend_outliers_capped": 212,
+ "clean_rows": 6000
+}

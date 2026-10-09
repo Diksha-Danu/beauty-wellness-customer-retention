@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+# generated data & models (recreate with: python run_all.py)
+data/raw/*.csv
+data/processed/*.csv
+models/*.joblib
